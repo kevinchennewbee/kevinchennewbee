@@ -1,6 +1,9 @@
 <div align="center">
 
 # 嗨,我是 Kevin (陈克文) 👋
+
+<img src="https://komarev.com/ghpvc/?username=kevinchennewbee&label=Profile%20views&color=10A37F&style=flat-square" alt="views"/>
+
 ### AI 工程师 · AI Agent 实践者 · Personal AI Stack 长期主义者
 
 <em>把最前沿的 AI 装进日常 —— 本地优先、开源至上、亲手实践。</em><br/>
