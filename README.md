@@ -67,8 +67,13 @@
 
 深度思考 · 实用工具 · 开源项目 · 效率提升
 
-<a href="#"><img src="https://img.shields.io/badge/微信公众号-KevinAIStack-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat"/></a>
 <a href="mailto:helaoshi2014@gmail.com"><img src="https://img.shields.io/badge/Email-helaoshi2014@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/>
+
+<img src="assets/wechat-qr.png" alt="微信公众号 KevinAIStack — 微信搜一搜 KevinAIStack" width="420"/>
+
+<sub>微信「搜一搜」KevinAIStack,或扫码关注</sub>
 
 ---
 
