@@ -2,8 +2,6 @@
 
 # 嗨,我是 Kevin (陈克文) 👋
 
-<img src="https://komarev.com/ghpvc/?username=kevinchennewbee&label=Profile%20views&color=10A37F&style=flat-square" alt="views"/>
-
 ### AI 工程师 · AI Agent 实践者 · Personal AI Stack 长期主义者
 
 <em>把最前沿的 AI 装进日常 —— 本地优先、开源至上、亲手实践。</em><br/>
@@ -79,8 +77,9 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kevinchennewbee&show_icons=true&hide_border=true&theme=graywhite&icon_color=10A37F&title_color=DC382D" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinchennewbee&layout=compact&hide_border=true&theme=graywhite&title_color=DC382D" alt="top langs"/>
+<a href="https://github.com/kevinchennewbee?tab=followers"><img src="https://img.shields.io/github/followers/kevinchennewbee?style=social" alt="followers"/></a>
+&nbsp;
+<a href="https://github.com/kevinchennewbee?tab=repositories"><img src="https://img.shields.io/badge/Open_Source-AI_Agent-10A37F?style=flat-square&logo=github" alt="open source"/></a>
 
 <br/><br/>
 <em>千里之行,始于足下。 · A journey of a thousand miles begins with a single step.</em>
