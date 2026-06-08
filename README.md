@@ -1,11 +1,3 @@
-<!--
-  GitHub Profile README for: kevinchennewbee (陈克文 / Kevin)
-  这是你的 GitHub 主页。它会显示在 https://github.com/kevinchennewbee 最上方。
-  做法:新建一个名字和你用户名完全一样的仓库 kevinchennewbee/kevinchennewbee,
-  把这个文件作为它的 README.md。GitHub 会自动把它显示成主页。
-  (Claude 可一键帮你建好并发布。)
--->
-
 <div align="center">
 
 # 嗨,我是 Kevin (陈克文) 👋
