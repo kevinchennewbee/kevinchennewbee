@@ -50,10 +50,7 @@
 
 | 项目 | 简介 |
 |---|---|
-| 🪶 **NewbeeAgent** <sub>(代号 蓬莱 · Penglai)</sub> | 轻量个人 AI 助手 · 飞书+微信 · 自进化记忆 · 主动陪伴 · 专家团(蜂群,八仙过海各显神通)。集众家所长,站在巨人肩上。<sub>(开发中,即将开源)</sub> |
-| 🐾 [**HermesPet**](https://github.com/kevinchennewbee/HermesPet) | 让 AI 住进 MacBook 的刘海里 · 零依赖开箱即用 · 多引擎并行的桌面 AI 伴侣(Swift 6 / SwiftUI) |
-| 🎛️ [**PilotDeck**](https://github.com/kevinchennewbee/PilotDeck) | 任务型 AI Agent 生产力平台(研究 / 借鉴) |
-| 🔎 [**qsel**](https://github.com/kevinchennewbee/qsel) | dasel 的现代 Rust 重写 · 多格式(JSON/YAML/TOML/XML/CSV)· jq 风格查询 |
+| 🏮 [**蓬莱 · Penglai**](https://github.com/kevinchennewbee/PenglaiAgent) | 住在你飞书和微信里的中文 AI 管家 · 十分钟开箱 · 听得出情绪 · 记得住你 · 基于 GenericAgent,内核零改动。八仙过海,各显神通。 |
 
 ---
 
